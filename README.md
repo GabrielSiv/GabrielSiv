@@ -9,7 +9,6 @@ Sou desenvolvedor Front-End, atualmente trabalhando no GrupoSOMA, apaixonado por
 Também me considero um grande apreciador de música, apaixonado por animais e biologia, e fanático por futebol (sim, são informações bem aleatórias, mas se você puxar assunto comigo sobre qualquer uma delas, falaremos por horas a fio).
 
 <br>
-<br>
 
 # Skills
 
