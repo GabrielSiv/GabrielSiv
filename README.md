@@ -1,6 +1,8 @@
 ##### Olá, eu me chamo
 
-# Gabriel Silvino \
+# Gabriel Silvino 
+
+---
 
 
 Sou desenvolvedor Front-End, atualmente trabalhando no GrupoSOMA, apaixonado por UI/UX e por desenvolver soluções, por conta disso, me sinto realizado profissionalmente, pois realmente trabalho fazendo o que eu amo.\
