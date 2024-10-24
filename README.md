@@ -5,7 +5,6 @@
 <br>
 
 Sou desenvolvedor Front-End, atualmente trabalhando na Mutant, apaixonado por UI/UX e por desenvolver soluções, por conta disso, me sinto realizado profissionalmente, pois realmente trabalho fazendo o que eu amo.
-
 <br>
 
 # Skills
